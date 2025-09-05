@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [keshie.space](keshie.space)
+- 👨‍💻 All of my projects are available at [keshie.space](https://keshie.space)
 
-- 📝 I regularly write articles on [keshie.space](keshie.space)
+- 📝 I regularly write articles on [keshie.space](https://keshie.space)
 
 - 💬 Ask me about **C**
 
 - 📫 How to reach me **marcandrei.regulacion@cit.edu**
 
-- 📄 Know about my experiences [keshie.space](keshie.space)
+- 📄 Know about my experiences [keshie.space](https://keshie.space)
 
 - ⚡ Fun fact **Krazy Keshie**
 
