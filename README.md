@@ -142,7 +142,7 @@ I'm always open to collaborating or chatting about:
 </a>
 <br><br>
 
-<a href="mailto:realwaan.contact@gmail.com">
+<a href="mailto:andreiregulacion996@gmail.com">
   <img src="https://img.shields.io/badge/Email-realwaan.contact%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact">
 </a>
 <br><br>
