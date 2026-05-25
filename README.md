@@ -34,11 +34,11 @@
 
 # 🛠 Technologies, Projects, and Domains
 
-<table border="0" cellspacing="15" cellpadding="0" width="80%" align="left">
+<table border="0" cellspacing="15" cellpadding="0" width="700" align="left">
 <tr>
 
 <!-- LEFT: TECHNOLOGIES -->
-<td width="33%" valign="top" align="center">
+<td width="220" valign="top" align="center">
 
 <h3>🛠 Technologies</h3>
 <br>
@@ -49,7 +49,7 @@
 </td>
 
 <!-- MIDDLE: PROJECTS -->
-<td width="34%" valign="top" align="center">
+<td width="240" valign="top" align="center">
 
 <h3>🧪 Featured Projects</h3>
 <br>
@@ -76,7 +76,7 @@
 </td>
 
 <!-- RIGHT: DOMAINS -->
-<td width="33%" valign="top" align="center">
+<td width="240" valign="top" align="center">
 
 <h3>🧠 Focus Domains</h3>
 <br>
@@ -103,23 +103,23 @@
 
 # 🧪 Featured Projects
 
-<table width="80%" border="0" cellspacing="10" cellpadding="10" align="left">
+<table width="700" border="0" cellspacing="10" cellpadding="10" align="left">
 <tr>
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+<td width="350" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
   <h4>⚡ <a href="https://github.com/Realwaan/portfolio">Portfolio Explorer</a></h4>
   <p>A Raycast-inspired keyboard-navigable command palette portfolio featuring a CIT-U curriculum roadmap, Spotify mini-player integration, and theme switchers. Built with React + TypeScript + Vite.</p>
 </td>
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+<td width="350" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
   <h4>💰 <a href="https://github.com/Realwaan/Tihik">Tihik</a></h4>
   <p>A budget tracker and expense visualizer application built with React, TypeScript, and smooth CSS transitions. Named after the Cebuano word for <i>thrifty</i>.</p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+<td width="350" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
   <h4>🌴 <a href="https://github.com/Realwaan/islaweave">islaweave</a></h4>
   <p>A responsive cultural heritage showcase exploring traditional Philippine weaving patterns and local art forms. Built using semantic HTML5 and vanilla CSS3.</p>
 </td>
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+<td width="350" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
   <h4>📷 <a href="https://github.com/Realwaan/PhotoboothV2">PhotoboothV2</a></h4>
   <p>An interactive, web-based camera photo booth system with custom filter overlays, countdown timer, and local image exports.</p>
 </td>
@@ -147,11 +147,11 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Realwaan)
 
-<table width="80%" border="0" cellspacing="10" cellpadding="0" align="left">
+<table width="700" border="0" cellspacing="10" cellpadding="0" align="left">
 <tr>
 
 <!-- LEFT: COLLAB -->
-<td width="50%" valign="top">
+<td width="350" valign="top">
 
 <h3>🤝 Collaboration</h3>
 <br>
@@ -166,7 +166,7 @@ I'm always open to collaborating or chatting about:
 </td>
 
 <!-- RIGHT: CONTACT -->
-<td width="50%" valign="top" align="center">
+<td width="350" valign="top" align="center">
 
 <h3>📫 Contact</h3>
 <br>
