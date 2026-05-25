@@ -34,7 +34,7 @@
 
 # 🛠 Technologies, Projects, and Domains
 
-<table border="0" cellspacing="15" cellpadding="0" width="100%">
+<table border="0" cellspacing="15" cellpadding="0" width="80%" align="left">
 <tr>
 
 <!-- LEFT: TECHNOLOGIES -->
@@ -96,13 +96,14 @@
 
 </tr>
 </table>
+<div style="clear: both;"></div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Realwaan)
 
 
 # 🧪 Featured Projects
 
-<table width="100%" border="0" cellspacing="10" cellpadding="10">
+<table width="80%" border="0" cellspacing="10" cellpadding="10" align="left">
 <tr>
 <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
   <h4>⚡ <a href="https://github.com/Realwaan/portfolio">Portfolio Explorer</a></h4>
@@ -124,6 +125,7 @@
 </td>
 </tr>
 </table>
+<div style="clear: both;"></div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Realwaan)
 
@@ -145,7 +147,7 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Realwaan)
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<table width="80%" border="0" cellspacing="10" cellpadding="0" align="left">
 <tr>
 
 <!-- LEFT: COLLAB -->
@@ -192,6 +194,7 @@ I'm always open to collaborating or chatting about:
 
 </tr>
 </table>
+<div style="clear: both;"></div>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Realwaan)
 
