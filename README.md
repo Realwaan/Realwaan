@@ -130,17 +130,17 @@
 ### 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Realwaan&show_icons=true&locale=en&theme=radical" alt="Realwaan GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realwaan&show_icons=true&locale=en&theme=radical" alt="Realwaan GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Realwaan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Realwaan Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realwaan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Realwaan Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Realwaan&theme=radical" alt="Realwaan Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realwaan&theme=radical" alt="Realwaan Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Realwaan&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=realwaan&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Realwaan)
