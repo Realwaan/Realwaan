@@ -49,60 +49,48 @@
 </td>
 
 <!-- MIDDLE: PROJECTS -->
-<td width="34%" valign="top">
+<td width="34%" valign="top" align="center">
 
-<h3 align="center">🧪 Projects</h3>
+<h3>🧪 Featured Projects</h3>
 <br>
-<ul align="left">
-  <li>
-    <b><a href="https://github.com/Realwaan/portfolio">Portfolio Explorer</a></b>
-    <br><small>Raycast-inspired keyboard-navigable command palette portfolio.</small>
-  </li>
-  <br>
-  <li>
-    <b><a href="https://github.com/Realwaan/Tihik">Tihik Visualizer</a></b>
-    <br><small>React/TypeScript expense tracker named after Cebuano for <i>thrifty</i>.</small>
-  </li>
-  <br>
-  <li>
-    <b><a href="https://github.com/Realwaan/islaweave">islaweave</a></b>
-    <br><small>Cultural heritage web experience displaying weaving patterns.</small>
-  </li>
-  <br>
-  <li>
-    <b><a href="https://github.com/Realwaan/PhotoboothV2">PhotoboothV2</a></b>
-    <br><small>Interactive web-based camera photo booth with filter overlays.</small>
-  </li>
-</ul>
+
+<a href="https://github.com/Realwaan/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio%20Explorer-React%20%7C%20TS%20%7C%20Vite-36BCF7?style=for-the-badge&logo=react&logoColor=white" width="220" alt="Portfolio Explorer">
+</a>
+<br><br>
+
+<a href="https://github.com/Realwaan/Tihik">
+  <img src="https://img.shields.io/badge/Tihik%20Visualizer-Finance%20%7C%20React-4CAF50?style=for-the-badge&logo=react&logoColor=white" width="220" alt="Tihik Budget Tracker">
+</a>
+<br><br>
+
+<a href="https://github.com/Realwaan/islaweave">
+  <img src="https://img.shields.io/badge/islaweave-Culture%20%7C%20CSS-FF9800?style=for-the-badge&logo=html5&logoColor=white" width="220" alt="islaweave Heritage">
+</a>
+<br><br>
+
+<a href="https://github.com/Realwaan/PhotoboothV2">
+  <img src="https://img.shields.io/badge/PhotoboothV2-Camera%20%7C%20JS-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black" width="220" alt="Photobooth V2">
+</a>
 
 </td>
 
 <!-- RIGHT: DOMAINS -->
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<h3 align="center">🧠 Domains</h3>
+<h3>🧠 Focus Domains</h3>
 <br>
-<ul align="left">
-  <li>
-    <b>Systems Programming</b>
-    <br><small>Pointers, references, and memory management concepts in C/C++.</small>
-  </li>
-  <br>
-  <li>
-    <b>Web Development</b>
-    <br><small>Responsive glassmorphic UI design, Next.js components, and CSS animation.</small>
-  </li>
-  <br>
-  <li>
-    <b>Discrete Math & Logic</b>
-    <br><small>Propositional logic, combinational logic gates, and truth tables.</small>
-  </li>
-  <br>
-  <li>
-    <b>Automation & Shell</b>
-    <br><small>Scripting tasks using Windows PowerShell, Bash, and Python bots.</small>
-  </li>
-</ul>
+
+<img src="https://img.shields.io/badge/Systems%20Programming-C%20%2F%20C%2B%2B%20%7C%20Low--Level-F44336?style=for-the-badge&logo=c&logoColor=white" width="220" alt="Systems Programming">
+<br><br>
+
+<img src="https://img.shields.io/badge/Web%20Development-React%20%2F%20Next.js-007ACC?style=for-the-badge&logo=nextdotjs&logoColor=white" width="220" alt="Web Development">
+<br><br>
+
+<img src="https://img.shields.io/badge/Math%20%26%20Logic-Gates%20%2F%20Proofs-9C27B0?style=for-the-badge&logo=academicons&logoColor=white" width="220" alt="Discrete Math and Logic">
+<br><br>
+
+<img src="https://img.shields.io/badge/Automation%20%26%20Shell-PowerShell%20%2F%20Python-673AB7?style=for-the-badge&logo=powershell&logoColor=white" width="220" alt="Automation and Scripting">
 
 </td>
 
