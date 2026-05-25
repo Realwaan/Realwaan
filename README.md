@@ -32,32 +32,76 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Realwaan)
 
 
-# 🛠 Technologies, Focus, and Domains
+# 🛠 Technologies, Projects, and Domains
 
-<table border="0" cellspacing="10" cellpadding="0" width="100%">
+<table border="0" cellspacing="15" cellpadding="0" width="100%">
 <tr>
 
 <!-- LEFT: TECHNOLOGIES -->
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <h3>🛠 Technologies</h3>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,py,kotlin,nextjs,react,tailwind,html,css,git,vscode,linux,powershell&theme=dark" alt="My Technologies" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,py,kotlin,nextjs,react,tailwind,html,css,git,vscode,linux,powershell&theme=dark&perline=3" alt="My Technologies" />
 </a>
 
 </td>
 
-<!-- RIGHT: FOCUS & DOMAINS -->
-<td width="50%" valign="top" align="center">
+<!-- MIDDLE: PROJECTS -->
+<td width="34%" valign="top">
 
-<h3>🧠 Focus Areas</h3>
+<h3 align="center">🧪 Projects</h3>
 <br>
 <ul align="left">
-  <li><b>Systems Programming:</b> Getting a solid grasp of computer architecture, memory management, and OOP concepts using C/C++.</li>
-  <li><b>Web Development:</b> Crafting modern, interactive web experiences (like my Raycast Portfolio Explorer) with React, Next.js, and CSS.</li>
-  <li><b>Automation & Shell Tooling:</b> Writing custom PowerShell/Bash scripts and Python automation bots.</li>
-  <li><b>Discrete Math & Logic:</b> Exploring boolean algebra, combinational logic, set theory, and proofs.</li>
+  <li>
+    <b><a href="https://github.com/Realwaan/portfolio">Portfolio Explorer</a></b>
+    <br><small>Raycast-inspired keyboard-navigable command palette portfolio.</small>
+  </li>
+  <br>
+  <li>
+    <b><a href="https://github.com/Realwaan/Tihik">Tihik Visualizer</a></b>
+    <br><small>React/TypeScript expense tracker named after Cebuano for <i>thrifty</i>.</small>
+  </li>
+  <br>
+  <li>
+    <b><a href="https://github.com/Realwaan/islaweave">islaweave</a></b>
+    <br><small>Cultural heritage web experience displaying weaving patterns.</small>
+  </li>
+  <br>
+  <li>
+    <b><a href="https://github.com/Realwaan/PhotoboothV2">PhotoboothV2</a></b>
+    <br><small>Interactive web-based camera photo booth with filter overlays.</small>
+  </li>
+</ul>
+
+</td>
+
+<!-- RIGHT: DOMAINS -->
+<td width="33%" valign="top">
+
+<h3 align="center">🧠 Domains</h3>
+<br>
+<ul align="left">
+  <li>
+    <b>Systems Programming</b>
+    <br><small>Pointers, references, and memory management concepts in C/C++.</small>
+  </li>
+  <br>
+  <li>
+    <b>Web Development</b>
+    <br><small>Responsive glassmorphic UI design, Next.js components, and CSS animation.</small>
+  </li>
+  <br>
+  <li>
+    <b>Discrete Math & Logic</b>
+    <br><small>Propositional logic, combinational logic gates, and truth tables.</small>
+  </li>
+  <br>
+  <li>
+    <b>Automation & Shell</b>
+    <br><small>Scripting tasks using Windows PowerShell, Bash, and Python bots.</small>
+  </li>
 </ul>
 
 </td>
