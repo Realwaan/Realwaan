@@ -34,11 +34,11 @@
 
 # 🛠 Technologies, Projects, and Domains
 
-<table border="0" cellspacing="15" cellpadding="0" width="700" align="left">
+<table border="0" cellspacing="15" cellpadding="0" width="900">
 <tr>
 
 <!-- LEFT: TECHNOLOGIES -->
-<td width="220" valign="top" align="center">
+<td width="300" valign="top" align="center">
 
 <h3>🛠 Technologies</h3>
 <br>
@@ -49,7 +49,7 @@
 </td>
 
 <!-- MIDDLE: PROJECTS -->
-<td width="240" valign="top" align="center">
+<td width="300" valign="top" align="center">
 
 <h3>🧪 Featured Projects</h3>
 <br>
@@ -76,7 +76,7 @@
 </td>
 
 <!-- RIGHT: DOMAINS -->
-<td width="240" valign="top" align="center">
+<td width="300" valign="top" align="center">
 
 <h3>🧠 Focus Domains</h3>
 <br>
@@ -96,16 +96,15 @@
 
 </tr>
 </table>
-<div style="clear: both;"></div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Realwaan)
 
 
 # 🧪 Featured Projects
 
-<table width="700" border="0" cellspacing="10" cellpadding="10" align="left">
+<table width="900" border="0" cellspacing="10" cellpadding="10">
 <tr>
-<td width="350" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+<td width="450" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
   <h4>⚡ <a href="https://github.com/Realwaan/portfolio">Portfolio Explorer</a></h4>
   <p>A Raycast-inspired keyboard-navigable command palette portfolio featuring a CIT-U curriculum roadmap, Spotify mini-player integration, and theme switchers. Built with React + TypeScript + Vite.</p>
 </td>
@@ -125,7 +124,6 @@
 </td>
 </tr>
 </table>
-<div style="clear: both;"></div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Realwaan)
 
@@ -147,11 +145,11 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Realwaan)
 
-<table width="700" border="0" cellspacing="10" cellpadding="0" align="left">
+<table width="900" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
 <!-- LEFT: COLLAB -->
-<td width="350" valign="top">
+<td width="450" valign="top">
 
 <h3>🤝 Collaboration</h3>
 <br>
@@ -166,7 +164,7 @@ I'm always open to collaborating or chatting about:
 </td>
 
 <!-- RIGHT: CONTACT -->
-<td width="350" valign="top" align="center">
+<td width="450" valign="top" align="center">
 
 <h3>📫 Contact</h3>
 <br>
@@ -194,7 +192,6 @@ I'm always open to collaborating or chatting about:
 
 </tr>
 </table>
-<div style="clear: both;"></div>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Realwaan)
 
