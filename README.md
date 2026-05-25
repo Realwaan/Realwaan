@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/unQ3IJU2RG7vy/giphy.gif" width="400" alt="Retro pixel computer typing code">
+<img src="https://raw.githubusercontent.com/Ladvace/Ladvace/main/images/developer.gif" width="400" alt="Animated pixel art developer sitting at desk">
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Realwaan)
