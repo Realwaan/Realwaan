@@ -180,7 +180,7 @@ I'm always open to collaborating or chatting about:
 <br><br>
 
 <a href="https://www.linkedin.com/in/marc-andrei-regulacion-41aaa41a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-realwaan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
+  <img src="https://img.shields.io/badge/LinkedIn-Marc-Andrei-Regulacion-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
 </a>
 <br><br>
 
