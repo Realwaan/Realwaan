@@ -179,7 +179,7 @@ I'm always open to collaborating or chatting about:
 </a>
 <br><br>
 
-<a href="https://linkedin.com/in/realwaan">
+<a href="https://www.linkedin.com/in/marc-andrei-regulacion-41aaa41a0/">
   <img src="https://img.shields.io/badge/LinkedIn-realwaan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
 </a>
 <br><br>
